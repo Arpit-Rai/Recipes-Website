@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(99, 216, 109);
+    font-family:serif,sans-serif;
+}
+
+.test {
+    color: blue;
+    font-weight:500;
+}
+
+.text {
+    color: rgb(0, 119, 255);
+    font-family: "Comic Sans",Arial, Helvetica, sans-serif;
+}
